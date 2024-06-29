@@ -1,0 +1,25 @@
+messages:
+  # %name% 坐标点的名字
+  addCoordinateSuccess: "坐标 %name% 已添加到公共坐标库。"
+  addCoordinateUsage: "请提供坐标点的名称，例如：/colib add 我的新坐标点"
+  deleteConfirm: "坐标点已删除。"
+  deleteOption: "删除"
+  deleteOptionLore: "点击删除这个坐标点"
+  followOption: "追踪"
+  followOptionLore: "点击开始追踪此坐标点"
+  followStartMsg: "开始追踪坐标点"
+  followEnd: "你已到达坐标点附近，停止追踪"
+  stopFollow: "你已经停止追踪坐标点。"
+  prevPage: "上一页"
+  nextPage: "下一页"
+  # %horizontalDist% 玩家和坐标点在水平方向的距离, %dist% 玩家和坐标点的欧几里得距离, %indicator% 指示方向的指示符
+  trackingMsg: "水平距离: %horizontalDist% 距离: %dist% 方向: %indicator%"
+  confirm: "确定"
+  cancel: "取消"
+titles:
+  # %name% 坐标点的名字
+  coordMenu: "坐标选项: %name%"
+  # %now% 当前页码, %total% 总页数
+  coordLibrary: "坐标库 (%now%/%total%)"
+  # %name% 坐标点的名字
+  confirmMenu: "请确认是否要删除 %name%"

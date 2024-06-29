@@ -1,0 +1,8 @@
+name: CoordinatesLibrary
+version: '${version}'
+main: com.adyingdeath.coordinateslibrary.CoordinatesLibrary
+api-version: '1.20'
+commands:
+  colib:
+    description: "使用公共坐标库"
+    usage: "/colib [add]"
