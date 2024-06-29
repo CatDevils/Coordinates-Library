@@ -6,8 +6,6 @@ import com.adyingdeath.coordinateslibrary.menu.InventoryUtils;
 import com.adyingdeath.coordinateslibrary.storage.CoordLib;
 import com.adyingdeath.coordinateslibrary.storage.Coordinate;
 import net.kyori.adventure.text.Component;
-import net.md_5.bungee.api.ChatMessageType;
-import net.md_5.bungee.api.chat.TextComponent;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Particle;
